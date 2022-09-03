@@ -1,0 +1,5 @@
+Run the ipynb file for the Solutions and upload all the data files.
+
+Preferably Colab or Jupyter Notebook
+
+Libraries used (Python): pandas, numpy, scikit learn, matplotlib, seaborn, Pulp, tabulate, Plotnine.
